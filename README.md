@@ -2,6 +2,8 @@
 
 This is the repository for 11785 Project, featuring PCB Defect Classification.
 
+Configurations of the models we tested are available in [exp](./exp/). You can check the config.yaml for details of the model architecture.
+
 # How to run
 
 ## Install dependencies
