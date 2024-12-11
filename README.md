@@ -50,3 +50,7 @@ Spurious Coppers - Accuracy: 96.11%, Loss: 0.1423
 ![Result](./imgs/result.png)
 
 For more information, please go to [reports](./reports) to see our project reports.
+
+[Midterm report](./reports/Midterm.pdf)
+
+[Final report](./reports/Final.pdf)
