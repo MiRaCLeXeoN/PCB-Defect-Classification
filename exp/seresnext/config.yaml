@@ -1,0 +1,17 @@
+model: seresnext
+dataset_root: ./data/VOC_PCB
+num_workers: 12
+batch_size: 256
+loss: crossEntropy
+ce_smoothing_factor: 0.2
+scheduler: ReduceLR
+learning_rate: 0.001
+reducelr_factor: 0.5
+reducelr_patience: 3
+reducelr_threshold: 0.001
+reducelr_minlr: 1.0e-06
+optimizer: AdamW
+weight_decay: 0.01
+use_wandb: true
+dropout_rate: 0.2
+epochs: 100

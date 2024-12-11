@@ -1,0 +1,6 @@
+data/VOC_PCB
+data/VOC_PCB.zip
+
+wandb
+
+*.pth
